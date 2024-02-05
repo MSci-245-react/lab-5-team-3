@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13710429)
 # Use this repository to do lab exercises based on the textbook "Outside-In React Development"
 
 ## Important: Cypress doesn't run on Codespaces, so you will need to install this repo on your local machine in order to do exercises that involve Cypress.
