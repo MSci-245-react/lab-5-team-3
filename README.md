@@ -31,6 +31,10 @@ node -v
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Production: <https://opinion-ate-react-lab5-team3.netlify.app/>
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead
+of `npm` to install them.
+
 ## Available Scripts
 
 In the project directory, you can run:
