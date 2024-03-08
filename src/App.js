@@ -1,8 +1,8 @@
-import RestaurantScreen from './components/RestaurantScreen';
+import IncrementByAmount from './IncrementByAmount';
 export default function App() {
   return (
     <div>
-      <RestaurantScreen />
+      <IncrementByAmount />
     </div>
 );
 }
